@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.util.*;
 
 public class SnakeGame extends JFrame {
-	private static final float SCORE_MULTIPLIER = 0.3f;
+    private static final float SCORE_MULTIPLIER = 0.3f;
 
     String title = "Snake";
     Color background = Color.BLACK;
